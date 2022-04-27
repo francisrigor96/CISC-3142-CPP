@@ -10,11 +10,6 @@
 
 using namespace std;
 
-// This function is purely for testing purposes to see if this file is working correctly
-void sayHello() {
-	printf("Hello!\n");
-}
-
 // This function prints out the contents of the file
 void printInput(vector<string> v) {
 	for (int j = 1; j < v.size(); j++) 

@@ -4,6 +4,12 @@ lab1: file_in.o
 lab2: Calculator.o
 	g++ Calculator.o -o lab2
 
+lab3: main.o
+	g++ main.o -o lab3
+
+main.o: main.cpp
+	g++ -c main.cpp
+
 Calculator.o: Calculator.cpp
 	g++ -c Calculator.cpp
 	
