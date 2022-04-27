@@ -7,8 +7,8 @@ lab2: Calculator.o
 lab3: main.o
 	g++ main.o -o lab3
 
-main.o: main.cpp
-	g++ -c main.cpp
+main.o: src/main.cpp
+	g++ -c src/main.cpp
 
 Calculator.o: Calculator.cpp
 	g++ -c Calculator.cpp
