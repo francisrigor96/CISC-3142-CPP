@@ -1,0 +1,150 @@
+
+checking data for course 1115
+
+total=2917
+Passing rate for I01 is 5.210833
+Passing rate for I02 is 2.536853
+Passing rate for I04 is 1.165581
+Passing rate for I08 is 5.039424
+Passing rate for I12 is 5.896469
+Passing rate for I14 is 3.839561
+Passing rate for I16 is 4.868015
+Passing rate for I18 is 4.490915
+Passing rate for I20 is 5.176551
+Passing rate for I21 is 2.845389
+Passing rate for I22 is 1.474117
+Passing rate for I23 is 1.439835
+Passing rate for I25 is 0.651354
+Passing rate for I26 is 0.685636
+Passing rate for I28 is 5.245115
+Passing rate for instructorid is 0.000000
+
+Passing rate for 1115 is 50.565650
+Passing rate for courseno is 0.000000
+W rate for I01 is 1.919781
+W rate for I02 is 0.719918
+W rate for I04 is 0.411382
+W rate for I08 is 2.536853
+W rate for I12 is 2.125471
+W rate for I14 is 0.445663
+W rate for I16 is 2.296880
+W rate for I18 is 1.268426
+W rate for I20 is 1.199863
+W rate for I21 is 1.302708
+W rate for I22 is 0.102845
+W rate for I23 is 0.239973
+W rate for I25 is 0.137127
+W rate for I26 is 0.171409
+W rate for I28 is 4.696606
+W rate for instructorid is 0.000000
+
+W rate for 1115 is 19.574906
+W rate for courseno is 0.000000
+
+Now in STEP 4. Checking for fall pass rate.
+Passing rate for T04 is 5.313678
+Passing rate for T08 is 5.485087
+Passing rate for T12 is 5.622215
+Passing rate for T16 is 6.856359
+Passing rate for T20 is 0.000000
+Passing rate for T23 is 0.000000
+Checking for spring pass rate
+Passing rate for T02 is 0.000000
+Passing rate for T06 is 0.000000
+Passing rate for T10 is 0.000000
+Passing rate for T14 is 0.000000
+Passing rate for T18 is 0.000000
+Passing rate for T21 is 0.000000
+--------------------------------------------------------------------
+checking data for course 3115
+
+total=1281
+Passing rate for I06 is 4.059329
+Passing rate for I07 is 2.419984
+Passing rate for I10 is 9.523810
+Passing rate for I11 is 2.966432
+Passing rate for I14 is 6.010929
+Passing rate for I15 is 10.304450
+Passing rate for I19 is 9.211553
+Passing rate for I21 is 8.274785
+Passing rate for I22 is 1.873536
+Passing rate for I23 is 6.245121
+Passing rate for I24 is 2.263856
+Passing rate for I27 is 9.055425
+Passing rate for I28 is 3.356753
+Passing rate for instructorid is 0.000000
+
+Passing rate for 3115 is 75.565964
+Passing rate for courseno is 0.000000
+W rate for I06 is 0.390320
+W rate for I07 is 0.156128
+W rate for I10 is 0.234192
+W rate for I11 is 0.780640
+W rate for I14 is 0.078064
+W rate for I15 is 1.327088
+W rate for I19 is 0.390320
+W rate for I21 is 2.888368
+W rate for I22 is 0.624512
+W rate for I23 is 0.780640
+W rate for I24 is 0.234192
+W rate for I27 is 0.546448
+W rate for I28 is 1.561280
+W rate for instructorid is 0.000000
+
+W rate for 3115 is 9.992194
+W rate for courseno is 0.000000
+
+Now in STEP 4. Checking for fall pass rate.
+Passing rate for T04 is 0.000000
+Passing rate for T08 is 8.899297
+Passing rate for T12 is 9.679938
+Passing rate for T16 is 9.914130
+Passing rate for T20 is 0.000000
+Passing rate for T23 is 0.000000
+Checking for spring pass rate
+Passing rate for T02 is 0.000000
+Passing rate for T06 is 0.000000
+Passing rate for T10 is 0.000000
+Passing rate for T14 is 0.000000
+Passing rate for T18 is 0.000000
+Passing rate for T21 is 0.000000
+--------------------------------------------------------------------
+checking data for course 3130
+
+total=998
+Passing rate for I03 is 3.607214
+Passing rate for I07 is 31.963928
+Passing rate for I17 is 4.509018
+Passing rate for I18 is 19.739479
+Passing rate for I19 is 15.330661
+Passing rate for I27 is 3.306613
+Passing rate for instructorid is 0.000000
+
+Passing rate for 3130 is 78.456914
+Passing rate for courseno is 0.000000
+W rate for I03 is 0.100200
+W rate for I07 is 1.603206
+W rate for I17 is 0.501002
+W rate for I18 is 4.008016
+W rate for I19 is 1.002004
+W rate for I27 is 0.601202
+W rate for instructorid is 0.000000
+
+W rate for 3130 is 7.815631
+W rate for courseno is 0.000000
+
+Now in STEP 4. Checking for fall pass rate.
+Passing rate for T04 is 0.000000
+Passing rate for T08 is 8.717435
+Passing rate for T12 is 12.324649
+Passing rate for T16 is 12.324649
+Passing rate for T20 is 0.000000
+Passing rate for T23 is 0.000000
+Checking for spring pass rate
+Passing rate for T02 is 0.000000
+Passing rate for T06 is 0.000000
+Passing rate for T10 is 0.000000
+Passing rate for T14 is 0.000000
+Passing rate for T18 is 0.000000
+Passing rate for T21 is 0.000000
+--------------------------------------------------------------------

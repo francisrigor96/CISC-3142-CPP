@@ -22,7 +22,7 @@ struct courseReport {
 int main(int argc, char * argv[]) {
 	ifstream in_stream; // Input file
 	FILE * oFile;
-	oFile = fopen("output/HW3output.txt", "w"); // output to this file
+	oFile = fopen("HW3output.txt", "w"); // output to this file
 	
   // Loop through the parameter arguments
   for (int i = 1; i < argc; i++) {
