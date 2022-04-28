@@ -9,5 +9,5 @@ Lab1 (Writing to a txt file): Simply type "make". This will create an executable
 
 Lab2 (Calculator): Type "make lab2". This will create an executable file named "lab2". Type "./lab2" to run the calculator.
 
-Lab3 (Multiple csv files): Type "make lab3". Then type "./lab3 data/1115.csv data/3115.csv data/3130.csv". The output file is located in the output folder and is titled "HW3output.txt".
+Lab3 (Multiple csv files): Type "make lab3". Then type "./lab3 data2/1115.csv data2/3115.csv data2/3130.csv". The output file is located in the output folder and is titled "HW3output.txt".
 
