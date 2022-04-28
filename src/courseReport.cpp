@@ -25,13 +25,13 @@ void getPassingRate(set < string > set, vector < string > vGrade, vector < strin
   for (string const & seti: set) {
     classSize = 0;
     passingGrade = 0;
-    cout << seti << endl;
     for (int q = 1; q < vec.size(); q++) {
       // Check how many of these total iterated elements have a passing grade
       if (vec[q] == seti) {
         if ((vGrade[q] == "A" || vGrade[q] == "A+" || vGrade[q] == "A-" || vGrade[q] == "B" || vGrade[q] == "B+" ||
             vGrade[q] == "B-" || vGrade[q] == "C" || vGrade[q] == "C+" || vGrade[q] == "C-" || vGrade[q] == "CR" || vGrade[q] == "P")) {
           passingGrade++;
+          cout << "passingGrade = " << passingGrade << endl;
         }
         classSize++;
       }
